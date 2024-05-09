@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Echo, Fullstack developer from <img src="https://img.tukuppt.com/png_preview/00/03/29/EfPzCu36sI.jpg!/fw/780" width="30"/> <b>China, Guangdong Dongguan</b>, currently living in <img src="https://img.tukuppt.com/png_preview/00/03/29/EfPzCu36sI.jpg!/fw/780" width="30"/><b>China, Guangdong Foshan</b>. </p>
+<p>Welcome to my page! </br> I'm Echo, Fullstack developer from<b>China, Guangdong Dongguan</b>, currently living in<b>China, Guangdong Foshan</b>. </p>
 <h3>Things I code with</h3>
 <p>
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
