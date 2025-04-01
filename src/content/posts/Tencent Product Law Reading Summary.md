@@ -6,7 +6,7 @@ image: './productMind.png'
 tags: [ProductManager,Methodology]
 category: 'ProductManager'
 draft: false 
-lang: 'ch'
+lang: 'zh_CN'
 ---
 
 # 产品思维
