@@ -6,7 +6,7 @@ image: ''
 tags: [ProductManager,BI]
 category: 'ProductManager'
 draft: false 
-lang: ''
+lang: 'zh-cn'
 ---
 
 # 数据产品-BI产品
